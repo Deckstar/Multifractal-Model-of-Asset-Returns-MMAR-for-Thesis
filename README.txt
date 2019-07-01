@@ -7,7 +7,7 @@ It would take you 60+ hours…
 #############################################
 
 
-Welcome to the data/code package for my Master's thesis!
+Welcome to the code package for my Master's thesis!
 
 In this folder, you will find FOUR types of files:
 1) The MAIN CODE file (the bulk of the analysis)
