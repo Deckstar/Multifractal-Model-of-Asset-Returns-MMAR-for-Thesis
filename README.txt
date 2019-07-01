@@ -9,17 +9,14 @@ It would take you 60+ hours…
 
 Welcome to the data/code package for my Master's thesis!
 
-In this folder, you will find FOUR types of files:
+In this folder, you will find THREE types of files:
 1) The MAIN CODE file (the bulk of the analysis)
 2) Three extra code files
-3) Four HTML files (for easily reading the code)
-4) My Master's thesis as a PDF file
+3) My Master's thesis as a PDF file
 
 All the main files for the thesis are in the main folder.
 
 The “Extra Code” contains extra experiments, such as the high-kurtosis graphs, the trader bankruptcy simulation games, and the H-index measurements for various exchange rates. There is also a diagram for how to construct an MMAR simulation.
-
-The “HTML versions” folder contains the code as HTML files, which can be opened and viewed very easily and conveniently in any internet browser (Google Chrome, Safari, Mozilla Firefox, Opera etc.) I recommend the HTML files as the best for viewing the code!
 
 
 #############################################
