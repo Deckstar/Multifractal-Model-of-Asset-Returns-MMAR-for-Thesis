@@ -19,7 +19,9 @@ All the main files for the thesis are in the main folder.
 
 The “Extra Code” contains extra experiments, such as the high-kurtosis graphs, the trader bankruptcy simulation games, and the H-index measurements for various exchange rates. There is also a diagram for how to construct an MMAR simulation.
 
-The “HTML versions” folder contains the code as HTML files, which can be opened and viewed very easily and conveniently in any internet browser (Google Chrome, Safari, Mozilla Firefox, Opera etc.) I recommend the HTML files as the best for viewing the code! (Note: unfortunately, Github doesn't seem to let you just download the file directly. To open the HTML file, I opened the "raw" text version, scrolled down to the bottom to load all the text, copy pasted it into a text application and saved it as "MAIN CODE.html". After that, a simply double click opened it in my browser.)
+The “HTML versions” folder contains the code as HTML files, which can be opened and viewed very easily and conveniently in any internet browser (Google Chrome, Safari, Mozilla Firefox, Opera etc.) I recommend the HTML files as the best for viewing the code!
+
+(Note: unfortunately, Github doesn't seem to let you just download the file directly. To open the HTML file, I opened the "raw" text version, scrolled down to the bottom to load all the text, copy pasted it into a text application and saved it as "MAIN CODE.html". After that, a simply double click opened it in my browser.)
 
 
 #############################################
